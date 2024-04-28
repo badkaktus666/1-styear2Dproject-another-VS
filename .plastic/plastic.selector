@@ -1,0 +1,4 @@
+repository "1-styear2Dproject(another)@roscadaniela861@cloud"
+  path "/"
+    br "/main"
+    co "/main"
